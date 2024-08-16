@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-"Easy Power Predictor" is a machine learning-based project designed to forecast electricity consumption by integrating various weather conditions and holiday data. The model aims to enhance electricity distribution efficiency, reduce energy wastage, and optimize power distribution strategies. This project was developed using a combination of machine learning algorithms, including Linear Regression, Random Forest, and XGBoost, with Random Forest identified as the most effective model for accurate predictions.
+"Easy Power Predictor" is a machine learning-based project designed to forecast electricity consumption by integrating various weather conditions and holiday data. The model aims to enhance electricity distribution efficiency, reduce energy wastage and optimize power distribution strategies. This project was developed using a combination of machine learning algorithms, including Linear Regression, Random Forest and XGBoost with Random Forest identified as the most effective model for accurate predictions.
 
 ## Table of Contents
 
